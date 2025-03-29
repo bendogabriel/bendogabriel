@@ -19,10 +19,13 @@ Atualmente, estou focado no desenvolvimento de **Agentes de IA** e automações 
 ### 🚀 Tecnologias e Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-N8N" height="30" width="40" src="https://n8n.io/favicon.ico">
-  <img align="center" alt="Gabriel-Supabase" height="30" width="40" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png">
+  <img align="center" alt="Gabriel-Supabase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg">
   <img align="center" alt="Gabriel-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="Gabriel-ElevenLabs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Eleven_Labs_Logo.png">
-  <img align="center" alt="Gabriel-Chatwoot" height="30" width="40" src="https://avatars.githubusercontent.com/u/52112406?s=200&v=4">
+  <img align="center" alt="Gabriel-DigitalOcean" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg">
+  <img align="center" alt="Gabriel-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Gabriel-Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+  <img align="center" alt="Gabriel-Postgress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Gabriel-Postgress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ## 🌍 Conecte-se comigo:
