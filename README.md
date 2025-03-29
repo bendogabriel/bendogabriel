@@ -25,7 +25,6 @@ Atualmente, estou focado no desenvolvimento de **Agentes de IA** e automações 
   <img align="center" alt="Gabriel-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Gabriel-Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
   <img align="center" alt="Gabriel-Postgress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Gabriel-Postgress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ## 🌍 Conecte-se comigo:
