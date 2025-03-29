@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **bendogabriel/bendogabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,106 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Opa! Eu sou o Gabriel Makinski Bendo, apaixonado por IA, inovação e empreendedorismo! 🚀
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gabriel Makinski Bendo | Perfil</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
-            color: white;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 50px auto;
-            padding: 20px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 15px;
-            box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
-            backdrop-filter: blur(10px);
-        }
-        img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            border: 4px solid white;
-        }
-        h1 {
-            margin-top: 10px;
-        }
-        .social a {
-            display: inline-block;
-            margin: 10px;
-            text-decoration: none;
-            color: #ffcc00;
-            font-size: 20px;
-            transition: 0.3s;
-        }
-        .social a:hover {
-            color: #ff6600;
-            transform: scale(1.1);
-        }
-        .skills, .experience {
-            text-align: left;
-            margin-top: 20px;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li::before {
-            content: "🔥";
-            margin-right: 8px;
-        }
-        .footer {
-            margin-top: 30px;
-            font-size: 14px;
-            opacity: 0.7;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img src="https://github.com/SEU-USUARIO.png" alt="Foto de Gabriel">
-        <h1>Gabriel Makinski Bendo</h1>
-        <p>🚀 Empreendedor | 💡 IA e Inovação | 👨‍💻 Software Engineer</p>
-        
-        <div class="social">
-            <a href="https://github.com/SEU-USUARIO">GitHub</a>
-            <a href="https://www.linkedin.com/in/SEU-LINKEDIN">LinkedIn</a>
-            <a href="https://instagram.com/SEU-INSTAGRAM">Instagram</a>
-        </div>
-        
-        <div class="skills">
-            <h2>Habilidades</h2>
-            <ul>
-                <li>Desenvolvimento de IA 🤖</li>
-                <li>Automação de Processos ⚡</li>
-                <li>Programação em C, Python e JavaScript 💻</li>
-                <li>Gestão de Negócios e Startups 📈</li>
-            </ul>
-        </div>
-        
-        <div class="experience">
-            <h2>Experiência</h2>
-            <ul>
-                <li>CEO e Fundador da Nexa Team 🚀</li>
-                <li>Engenharia de Software | IA e Automação 🛠️</li>
-                <li>Trabalho na Gráfica Bendo 🖨️</li>
-            </ul>
-        </div>
-        
-        <div class="footer">
-            <p>&copy; 2025 Gabriel Makinski Bendo - Feito com 🔥 e Café ☕</p>
-        </div>
-    </div>
-</body>
-</html>
+Atualmente, estou focado no desenvolvimento de **Agentes de IA** e automações para otimizar processos empresariais. Também sou estudante de **Engenharia de Software** e CEO da **Nexa Team**. Vamos transformar o mundo com tecnologia? 💡🔥
 
+### 🚀 Tecnologias e Ferramentas:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Gabriel-N8N" height="30" width="40" src="https://n8n.io/favicon.ico">
+</div>
+
+## 🌍 Conecte-se comigo:
+<div> 
+  <a href="https://github.com/GabrielMakinski" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-makinski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/GabrielMakinski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:gabrielmakinskibendo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+🚀 **"A inovação não acontece por acaso, ela é construída com coragem e persistência!"**
