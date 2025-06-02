@@ -18,7 +18,7 @@ Atualmente, estou focado no desenvolvimento de **Agentes de IA** e automações 
 
 ### 🚀 Tecnologias e Ferramentas:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-N8N" height="30" width="40" src="https://n8n.io/favicon.ico">
+  <a href="https://n8n.partnerlinks.io/nbq2sidg0m71"><img align="center" alt="Gabriel-N8N" height="30" width="40" src="https://n8n.io/favicon.ico"></a>
   <img align="center" alt="Gabriel-Supabase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg">
   <img align="center" alt="Gabriel-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="Gabriel-DigitalOcean" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg">
